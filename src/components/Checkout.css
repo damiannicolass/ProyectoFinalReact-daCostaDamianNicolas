@@ -1,0 +1,14 @@
+.button-comprar{
+    background-color: #e95176;
+    color: white;
+    border-radius: 10px;
+    border: white;
+    padding: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.button-comprar:hover{
+    background-color: #c43d5e; 
+    color: #f8f8f8; 
+    cursor: pointer; 
+}

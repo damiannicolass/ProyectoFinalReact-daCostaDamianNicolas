@@ -1,0 +1,52 @@
+html, body {
+    height: 100%; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column; 
+    min-height: 100vh; 
+}
+
+.main-content {
+    flex-grow: 1; 
+}
+
+.footer {
+    background-color: #e95176;
+    width: 100%;
+    padding: 15px;
+    color: white;
+    box-sizing: border-box;
+    flex-shrink: 0; 
+    position: relative;
+}
+
+.columna {
+    text-align: center;
+    font-size: 13px;
+}
+
+.link-footer {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 5px 0;
+}
+
+.link-footer:hover {
+    text-decoration: underline;
+}
+
+.link-redes {
+    text-decoration: none;
+    color: white;
+}
+
+.logo-creado {
+    width: 64px;
+}
+
+.copy {
+    font-size: 14px;
+    text-align: end;
+}

@@ -1,0 +1,27 @@
+.card-class {
+    display: flex; 
+    flex-direction: column; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+    transition: box-shadow 0.3s ease; 
+    overflow: hidden; 
+}
+
+.card-class:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); 
+}
+
+.card-class img {
+    width: 100%; 
+    object-fit: contain; 
+}
+
+.text-card {
+    color: white;
+    background-color: #000000f8;
+    padding: 1rem; 
+    margin: 0; 
+    flex-grow: 1; 
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between; 
+}

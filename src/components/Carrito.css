@@ -1,0 +1,33 @@
+.contenedor-carrito{
+    display: flex;
+    margin-top: 60px;
+}
+
+
+.h3-carrito{
+    font-weight: bold;
+}
+
+.button-carrito{
+    background-color: #e95176;
+    color: white;
+    border-radius: 10px;
+    border: white;
+    padding: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.button-carrito:hover{
+    background-color: #c43d5e; 
+    color: #f8f8f8; 
+    cursor: pointer; 
+}
+.img-mp{
+    width: 80px;
+}
+.img-master{
+    width: 50px;
+}
+.opciones-pago{
+    font-weight:bold
+}

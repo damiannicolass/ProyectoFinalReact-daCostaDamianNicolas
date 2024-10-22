@@ -1,0 +1,76 @@
+
+[
+    {
+        name: "Gorra trucker",
+        price: 6000,
+        category: "Estampados",
+        img: "/img/1.png",
+        description: "Esta gorra trucker es el complemento perfecto para cualquier outfit.",
+        stock: 10,
+    },
+    {
+        name: "Remera",
+        price: 7800,
+        category: "Estampados",
+        img: "/img/2.png",
+        description: "Transforma tu estilo con nuestra remera personalizada.",
+        stock: 10,
+    },
+    {
+        name: "Stickers",
+        price: 600,
+        category: "Stickers",
+        img: "/img/3.png",
+        description: "Dale un toque único a tus pertenencias con nuestro sticker de alta calidad.",
+        stock: 10,
+    },
+    {
+        name: "Stickers personalizados",
+        price: 900,
+        category: "Stickers",
+        img: "/img/4.png",
+        description: "Crea tus propios stickers personalizados que reflejen tu estilo.",
+        stock: 10,
+    },
+    {
+        name: "Tarjetas personales",
+        price: 15000,
+        category: "Papeleria",
+        img: "/img/5.png",
+        description: "Haz una impresión duradera con nuestras tarjetas personales de diseño elegante.",
+        stock: 10,
+    },
+    {
+        name: "Estampitas de Comunion",
+        price: 9500,
+        category: "Papeleria",
+        img: "/img/6.png",
+        description: "Celebra un momento especial con nuestras invitaciones de comunión personalizadas.",
+        stock: 10,
+    },
+    {
+        name: "Cuadro Jirafa",
+        price: 26000,
+        category: "cuadro",
+        img: "/img/7.png",
+        description: "Agrega un toque de elegancia salvaje a tu hogar con este hermoso cuadro de jirafa.",
+        stock: 10,
+    },
+    {
+        name: "Cuadro Messi",
+        price: 9500,
+        category: "cuadro",
+        img: "/img/8.png",
+        description: "Celebra al mejor jugador de fútbol con este cuadro de Messi.",
+        stock: 10,
+    },
+    {
+        name: "Taza Sublimada",
+        price: 9500,
+        category: "estampados",
+        img: "/img/9.png",
+        description: "Disfruta tu bebida favorita con estilo en esta taza sublimada.",
+        stock: 10,
+    }
+];
+
